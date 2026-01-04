@@ -1,0 +1,9 @@
+Model Evaluation Report
+====================
+R2: 0.4553
+MAE: 1.4875
+MSE: 14.0389
+RMSE: 3.7469
+MAPE (%): 40.1024
+
+Notes: All paths are relative. For more details see evaluation_metrics.csv and evaluation_predictions.csv

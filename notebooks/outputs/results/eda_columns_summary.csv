@@ -1,0 +1,10 @@
+,dtype,missing_count
+Car_Name,object,0
+Year,int64,0
+Selling_Price,float64,0
+Present_Price,float64,0
+Driven_kms,int64,0
+Fuel_Type,object,0
+Selling_type,object,0
+Transmission,object,0
+Owner,int64,0
